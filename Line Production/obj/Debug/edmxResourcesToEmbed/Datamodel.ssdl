@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProductionInformModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BrotherListLine">
+    <Key>
+      <PropertyRef Name="IdLine" />
+    </Key>
+    <Property Name="IdLine" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NameLine" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="LineStatus">
+    <Key>
+      <PropertyRef Name="IdLine" />
+    </Key>
+    <Property Name="IdLine" Type="int" Nullable="false" />
+    <Property Name="NameLine" Type="nvarchar" MaxLength="50" />
+    <Property Name="CountPerson" Type="int" />
+    <Property Name="ModelCurrent" Type="nvarchar" MaxLength="50" />
+    <Property Name="ProductionPlan" Type="int" />
+    <Property Name="ProductionActual" Type="int" />
+    <Property Name="StatusLine" Type="int" />
+    <Property Name="Comment" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="TbCustomer">
+    <Key>
+      <PropertyRef Name="IdCustomer" />
+    </Key>
+    <Property Name="IdCustomer" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="NameCustomer" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="ProductionInformModelStoreContainer">
+    <EntitySet Name="BrotherListLine" EntityType="Self.BrotherListLine" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LineStatus" EntityType="Self.LineStatus" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TbCustomer" EntityType="Self.TbCustomer" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

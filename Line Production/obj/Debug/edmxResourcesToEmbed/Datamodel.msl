@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ProductionInformModelStoreContainer" CdmEntityContainer="ProductionInformEntities">
+    <EntitySetMapping Name="BrotherListLines">
+      <EntityTypeMapping TypeName="ProductionInformModel.BrotherListLine">
+        <MappingFragment StoreEntitySet="BrotherListLine">
+          <ScalarProperty Name="IdLine" ColumnName="IdLine" />
+          <ScalarProperty Name="NameLine" ColumnName="NameLine" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LineStatus">
+      <EntityTypeMapping TypeName="ProductionInformModel.LineStatu">
+        <MappingFragment StoreEntitySet="LineStatus">
+          <ScalarProperty Name="IdLine" ColumnName="IdLine" />
+          <ScalarProperty Name="NameLine" ColumnName="NameLine" />
+          <ScalarProperty Name="CountPerson" ColumnName="CountPerson" />
+          <ScalarProperty Name="ModelCurrent" ColumnName="ModelCurrent" />
+          <ScalarProperty Name="ProductionPlan" ColumnName="ProductionPlan" />
+          <ScalarProperty Name="ProductionActual" ColumnName="ProductionActual" />
+          <ScalarProperty Name="StatusLine" ColumnName="StatusLine" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TbCustomers">
+      <EntityTypeMapping TypeName="ProductionInformModel.TbCustomer">
+        <MappingFragment StoreEntitySet="TbCustomer">
+          <ScalarProperty Name="IdCustomer" ColumnName="IdCustomer" />
+          <ScalarProperty Name="NameCustomer" ColumnName="NameCustomer" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,128 @@
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\bin\Debug\Line Production.exe
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\bin\Debug\Line Production.pdb
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\bin\Debug\Line Production.xml
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.exe
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.xml
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.pdb
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line_Production.Control.resources
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\bin\Debug\Line Production.exe.config
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\vb 2015\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.vbprojResolveAssemblyReference.cache
+D:\Program\Man hinh Line production\Line Production\Line Production\bin\Debug\Line Production.exe.config
+D:\Program\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.exe
+D:\Program\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.xml
+D:\Program\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.pdb
+D:\Program\Man hinh Line production\Line Production\Line Production\bin\Debug\Line Production.exe
+D:\Program\Man hinh Line production\Line Production\Line Production\bin\Debug\Line Production.pdb
+D:\Program\Man hinh Line production\Line Production\Line Production\bin\Debug\Line Production.xml
+D:\Program\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.vbprojResolveAssemblyReference.cache
+D:\Program\Man hinh Line production\Line Production\Line Production\obj\Debug\Line_Production.Control.resources
+D:\Program\Man hinh Line production\Line Production\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\Program\Man hinh Line production\Line Production\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\Program\Man hinh Line production\Line Production\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\vb 2015\Man hinh Line production\Line Production - Canon\Line Production\bin\Debug\Line Production.exe.config
+D:\vb 2015\Man hinh Line production\Line Production - Canon\Line Production\bin\Debug\Line Production.exe
+D:\vb 2015\Man hinh Line production\Line Production - Canon\Line Production\bin\Debug\Line Production.pdb
+D:\vb 2015\Man hinh Line production\Line Production - Canon\Line Production\bin\Debug\Line Production.xml
+D:\vb 2015\Man hinh Line production\Line Production - Canon\Line Production\obj\Debug\Line_Production.Control.resources
+D:\vb 2015\Man hinh Line production\Line Production - Canon\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\vb 2015\Man hinh Line production\Line Production - Canon\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\vb 2015\Man hinh Line production\Line Production - Canon\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\vb 2015\Man hinh Line production\Line Production - Canon\Line Production\obj\Debug\Line Production.exe
+D:\vb 2015\Man hinh Line production\Line Production - Canon\Line Production\obj\Debug\Line Production.xml
+D:\vb 2015\Man hinh Line production\Line Production - Canon\Line Production\obj\Debug\Line Production.pdb
+D:\vb 2015\Man hinh Line production\Line Production - Canon\Line Production\obj\Debug\Line Production.vbprojResolveAssemblyReference.cache
+D:\Line Production - Canon\Line Production\bin\Debug\Line Production.exe.config
+D:\Line Production - Canon\Line Production\obj\Debug\Line Production.exe
+D:\Line Production - Canon\Line Production\obj\Debug\Line Production.xml
+D:\Line Production - Canon\Line Production\obj\Debug\Line Production.pdb
+D:\Line Production - Canon\Line Production\bin\Debug\Line Production.exe
+D:\Line Production - Canon\Line Production\bin\Debug\Line Production.pdb
+D:\Line Production - Canon\Line Production\bin\Debug\Line Production.xml
+D:\Line Production - Canon\Line Production\obj\Debug\Line Production.vbprojResolveAssemblyReference.cache
+D:\Line Production - Canon\Line Production\obj\Debug\Line_Production.Control.resources
+D:\Line Production - Canon\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\Line Production - Canon\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\Line Production - Canon\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\Line Production - Canon14022017\Line Production\bin\Debug\Line Production.exe.config
+D:\Line Production - Canon14022017\Line Production\obj\Debug\Line Production.exe
+D:\Line Production - Canon14022017\Line Production\obj\Debug\Line Production.xml
+D:\Line Production - Canon14022017\Line Production\obj\Debug\Line Production.pdb
+D:\Line Production - Canon14022017\Line Production\bin\Debug\Line Production.exe
+D:\Line Production - Canon14022017\Line Production\bin\Debug\Line Production.pdb
+D:\Line Production - Canon14022017\Line Production\bin\Debug\Line Production.xml
+D:\Line Production - Canon14022017\Line Production\obj\Debug\Line_Production.Control.resources
+D:\Line Production - Canon14022017\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\Line Production - Canon14022017\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\Line Production - Canon14022017\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\Line Production - Canon14022017\Line Production\obj\Debug\Line Production.vbprojResolveAssemblyReference.cache
+D:\Program develop\Update soft old\Line Production - Canon14022017\Line Production\bin\Debug\Line Production.exe.config
+D:\Program develop\Update soft old\Line Production - Canon14022017\Line Production\obj\Debug\Line Production.exe
+D:\Program develop\Update soft old\Line Production - Canon14022017\Line Production\obj\Debug\Line Production.xml
+D:\Program develop\Update soft old\Line Production - Canon14022017\Line Production\obj\Debug\Line Production.pdb
+D:\Program develop\Update soft old\Line Production - Canon14022017\Line Production\bin\Debug\Line Production.exe
+D:\Program develop\Update soft old\Line Production - Canon14022017\Line Production\bin\Debug\Line Production.pdb
+D:\Program develop\Update soft old\Line Production - Canon14022017\Line Production\bin\Debug\Line Production.xml
+D:\Program develop\Update soft old\Line Production - Canon14022017\Line Production\obj\Debug\Line_Production.Control.resources
+D:\Program develop\Update soft old\Line Production - Canon14022017\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\Program develop\Update soft old\Line Production - Canon14022017\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\Program develop\Update soft old\Line Production - Canon14022017\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\Program develop\Update soft old\Line Production 04032017\Line Production\bin\Debug\Line Production.exe.config
+D:\Program develop\Update soft old\Line Production 04032017\Line Production\obj\Debug\Line Production.exe
+D:\Program develop\Update soft old\Line Production 04032017\Line Production\obj\Debug\Line Production.xml
+D:\Program develop\Update soft old\Line Production 04032017\Line Production\obj\Debug\Line Production.pdb
+D:\Program develop\Update soft old\Line Production 04032017\Line Production\bin\Debug\Line Production.exe
+D:\Program develop\Update soft old\Line Production 04032017\Line Production\bin\Debug\Line Production.pdb
+D:\Program develop\Update soft old\Line Production 04032017\Line Production\bin\Debug\Line Production.xml
+D:\Program develop\Update soft old\Line Production 04032017\Line Production\obj\Debug\Line_Production.Control.resources
+D:\Program develop\Update soft old\Line Production 04032017\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\Program develop\Update soft old\Line Production 04032017\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\Program develop\Update soft old\Line Production 04032017\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\Program develop\Update soft old\Line Production 08032017\Line Production\bin\Debug\Line Production.exe.config
+D:\Program develop\Update soft old\Line Production 08032017\Line Production\obj\Debug\Line Production.exe
+D:\Program develop\Update soft old\Line Production 08032017\Line Production\obj\Debug\Line Production.xml
+D:\Program develop\Update soft old\Line Production 08032017\Line Production\obj\Debug\Line Production.pdb
+D:\Program develop\Update soft old\Line Production 08032017\Line Production\bin\Debug\Line Production.exe
+D:\Program develop\Update soft old\Line Production 08032017\Line Production\bin\Debug\Line Production.pdb
+D:\Program develop\Update soft old\Line Production 08032017\Line Production\bin\Debug\Line Production.xml
+D:\Program develop\Update soft old\Line Production 08032017\Line Production\obj\Debug\Line_Production.Control.resources
+D:\Program develop\Update soft old\Line Production 08032017\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\Program develop\Update soft old\Line Production 08032017\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\Program develop\Update soft old\Line Production 08032017\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\Program develop\Update soft old\Line Production 08032017\Line Production\obj\Debug\Line Production.vbprojResolveAssemblyReference.cache
+D:\Quyet\Line Production 05072017\Line Production\bin\Debug\Line Production.exe.config
+D:\Quyet\Line Production 05072017\Line Production\bin\Debug\Line Production.exe
+D:\Quyet\Line Production 05072017\Line Production\bin\Debug\Line Production.pdb
+D:\Quyet\Line Production 05072017\Line Production\bin\Debug\Line Production.xml
+D:\Quyet\Line Production 05072017\Line Production\obj\Debug\Line_Production.Control.resources
+D:\Quyet\Line Production 05072017\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\Quyet\Line Production 05072017\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\Quyet\Line Production 05072017\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\Quyet\Line Production 05072017\Line Production\obj\Debug\Line Production.exe
+D:\Quyet\Line Production 05072017\Line Production\obj\Debug\Line Production.xml
+D:\Quyet\Line Production 05072017\Line Production\obj\Debug\Line Production.pdb
+D:\Quyet\Line Production 1.1.3.7\Line Production\bin\Debug\Line Production.exe.config
+D:\Quyet\Line Production 1.1.3.7\Line Production\bin\Debug\Line Production.exe
+D:\Quyet\Line Production 1.1.3.7\Line Production\bin\Debug\Line Production.pdb
+D:\Quyet\Line Production 1.1.3.7\Line Production\bin\Debug\Line Production.xml
+D:\Quyet\Line Production 1.1.3.7\Line Production\obj\Debug\Line_Production.Control.resources
+D:\Quyet\Line Production 1.1.3.7\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\Quyet\Line Production 1.1.3.7\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\Quyet\Line Production 1.1.3.7\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\Quyet\Line Production 1.1.3.7\Line Production\obj\Debug\Line Production.exe
+D:\Quyet\Line Production 1.1.3.7\Line Production\obj\Debug\Line Production.xml
+D:\Quyet\Line Production 1.1.3.7\Line Production\obj\Debug\Line Production.pdb
+D:\Quyet\Line Production 1.1.3.8\Line Production\bin\Debug\Line Production.exe.config
+D:\Quyet\Line Production 1.1.3.8\Line Production\obj\Debug\Line Production.exe
+D:\Quyet\Line Production 1.1.3.8\Line Production\obj\Debug\Line Production.xml
+D:\Quyet\Line Production 1.1.3.8\Line Production\obj\Debug\Line Production.pdb
+D:\Quyet\Line Production 1.1.3.8\Line Production\obj\Debug\Line_Production.Control.resources
+D:\Quyet\Line Production 1.1.3.8\Line Production\obj\Debug\Line_Production.Resources.resources
+D:\Quyet\Line Production 1.1.3.8\Line Production\obj\Debug\Line_Production.NG_FORM.resources
+D:\Quyet\Line Production 1.1.3.8\Line Production\obj\Debug\Line Production.vbproj.GenerateResource.Cache
+D:\Quyet\Line Production 1.1.3.8\Line Production\bin\Debug\Line Production.exe
+D:\Quyet\Line Production 1.1.3.8\Line Production\bin\Debug\Line Production.pdb
+D:\Quyet\Line Production 1.1.3.8\Line Production\bin\Debug\Line Production.xml
+D:\Quyet\Line Production 1.1.3.8\Line Production\obj\Debug\Line Production.vbprojResolveAssemblyReference.cache
